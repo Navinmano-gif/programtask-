@@ -12,7 +12,7 @@
 
 ### Problem 3 – Count Multiples in List
 - **File:** `Program-4.py`  
-- **Description:** Counts the total numbers in a list that are multiples o
+- **Description:** Counts the total numbers in a list that are multiples so
 
 
 Run the Python files:
